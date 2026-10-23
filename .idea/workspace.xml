@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66a6481a-8ca8-4972-857d-0451f7407c61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1215818684265357" />
+      <entry key="MS500" value="1.6561056272959804" />
+      <entry key="S2" value="1.900001929793512" />
+      <entry key="S5" value="1.95873233930864" />
+      <entry key="S10" value="1.979187707587986" />
+      <entry key="S30" value="2.0332692917277226" />
+      <entry key="S60" value="2.313365078434681" />
+      <entry key="M2" value="3.122868985103428" />
+      <entry key="M5" value="4.680926682067165" />
+      <entry key="M10" value="5.754726774094483" />
+      <entry key="M15" value="6.617471336005523" />
+      <entry key="M30" value="10.552386446258465" />
+      <entry key="H1" value="19.156868959548216" />
+      <entry key="H2" value="29.414931686787984" />
+      <entry key="H4" value="37.60770498383722" />
+      <entry key="D1" value="46.827908495692924" />
+      <entry key="W1" value="48.682210553591396" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.693862850625887E-158" />
+      <entry key="S10" value="2.587250055681879E-79" />
+      <entry key="S30" value="6.372054304395997E-27" />
+      <entry key="S60" value="7.982514832053914E-14" />
+      <entry key="M2" value="2.825334777030151E-7" />
+      <entry key="M5" value="0.002407211713405968" />
+      <entry key="M10" value="0.05251818680178148" />
+      <entry key="M15" value="0.16410694347984858" />
+      <entry key="M30" value="0.6427339702496767" />
+      <entry key="H1" value="1.4892676546938937" />
+      <entry key="H2" value="2.3924220801411726" />
+      <entry key="H4" value="3.0776930788783994" />
+      <entry key="D1" value="3.826271823636957" />
+      <entry key="W1" value="3.97463680822533" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.12703885655456928" />
+      <entry key="MS500" value="0.9198444780840628" />
+      <entry key="S2" value="1.615070119210654" />
+      <entry key="S5" value="1.8330911195188162" />
+      <entry key="S10" value="1.9142430735399212" />
+      <entry key="S30" value="2.0109080614780996" />
+      <entry key="S60" value="2.3006983913924373" />
+      <entry key="M2" value="3.114420684170809" />
+      <entry key="M5" value="4.678531420424538" />
+      <entry key="M10" value="5.803997881735861" />
+      <entry key="M15" value="6.778508208020365" />
+      <entry key="M30" value="11.191559401845597" />
+      <entry key="H1" value="20.642388028964294" />
+      <entry key="H2" value="31.804350317767565" />
+      <entry key="H4" value="40.683448952788424" />
+      <entry key="D1" value="50.6537716016205" />
+      <entry key="W1" value="52.656786562092385" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JKGAA88m6ejKPE4iBYuphfBAHS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.hangman.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66a6481a-8ca8-4972-857d-0451f7407c61" name="Changes" comment="" />
+      <created>1789402199351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789402199351</updated>
+      <workItem from="1790322434830" duration="6144000" />
+      <workItem from="1791360379869" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
