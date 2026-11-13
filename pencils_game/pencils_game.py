@@ -19,7 +19,6 @@ print("|" * pencils)
 current_player = first_player
 while pencils > 0:
     print(current_player + "'s turn!")
-
     while True:
         try:
             taken = int(input())
